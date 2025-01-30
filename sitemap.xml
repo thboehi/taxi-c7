@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Version française -->
+    <url>
+        <loc>https://taxi-c7.ch/fr</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://taxi-c7.ch/es"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://taxi-c7.ch/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://taxi-c7.ch/pt"/>
+    </url>
+
+    <!-- Version anglaise -->
+    <url>
+        <loc>https://taxi-c7.ch/en</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://taxi-c7.ch/es"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://taxi-c7.ch/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://taxi-c7.ch/pt"/>
+    </url>
+
+    <!-- Version allemande -->
+    <url>
+        <loc>https://taxi-c7.ch/de</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://taxi-c7.ch/es"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://taxi-c7.ch/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://taxi-c7.ch/pt"/>
+    </url>
+
+    <!-- Version espagnole -->
+    <url>
+        <loc>https://taxi-c7.ch/es</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://taxi-c7.ch/es"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://taxi-c7.ch/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://taxi-c7.ch/pt"/>
+    </url>
+
+    <!-- Version italienne -->
+    <url>
+        <loc>https://taxi-c7.ch/it</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://taxi-c7.ch/es"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://taxi-c7.ch/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://taxi-c7.ch/pt"/>
+    </url>
+
+    <!-- Version portugaise -->
+    <url>
+        <loc>https://taxi-c7.ch/pt</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://taxi-c7.ch/es"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://taxi-c7.ch/it"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://taxi-c7.ch/pt"/>
+    </url>
+
+</urlset>

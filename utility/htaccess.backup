@@ -1,0 +1,13 @@
+# Activer le moteur de réécriture
+RewriteEngine On
+
+# Assurer que les fichiers ou dossiers physiques ne sont pas réécrits
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rediriger les sous-dossiers linguistiques (fr, en, de) vers index.php
+RewriteRule ^(fr|en|de|es|it|pt)(/.*)?$ index.php [L,QSA]
+
+# Rediriger vers la langue par défaut (fr) si aucune langue n'est spécifiée
+# RewriteCond %{REQUEST_URI} !^/(fr|en|de|es|it|pt) [NC]
+# RewriteRule ^$ /fr [R=302,L]
