@@ -1,13 +1,13 @@
 <?php
 return [
-    "title" => "Taxi C7 - Châtel-St-Denis, Romont y alrededores.",
+    "title" => "Taxi C7 - Suiza - Châtel-St-Denis, Romont y alrededores.",
     "name" => "Taxi C7",
-    "description" => "Taxi independiente en Châtel-Saint-Denis, Romont y alrededores. Servicio de transporte personalizado, conductor privado, traslados a estaciones de tren y aeropuertos 24/7. Comodidad, discreción y puntualidad.",
-    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, conductor privado, transporte aeropuerto Ginebra, traslado estación Bulle, traslado estación Palézieux, Palezieux, taxi independiente, servicio 24/7, taxi local, reserva de taxi, transporte de larga distancia, taxi Friburgo, taxi Veveyse",
+    "description" => "Taxi independiente en Romont, Châtel-Saint-Denis y alrededores. Servicio de transporte personalizado, conductor privado, traslados a estaciones de tren y aeropuertos 24/7. Comodidad, discreción y puntualidad.",
+    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, conductor privado, transporte aeropuerto Ginebra, traslado estación Bulle, traslado estación Palézieux, Palezieux, taxi independiente, servicio 24/7, taxi local, reserva de taxi, transporte de larga distancia, taxi Friburgo, taxi Veveyse, Suizo Taxi, Suiza",
     "call" => "Llamar",
     "save" => "Guardar para más tarde...",
 
-    "section-welcome-title" => "Tu chófer privado en Châtel-Saint-Denis, Romont y alrededores 🚖✨",
+    "section-welcome-title" => "Su chófer privado en Romont, Châtel-St-Denis y en otros lugares de Suiza 🚖✨",
     "section-welcome-description" => "¿Buscas un taxi independiente y un servicio de chófer privado fiable y cómodo en la región de Châtel-Saint-Denis, Romont y alrededores? Taxi C7 está aquí para ti las 24 horas del día, los 7 días de la semana, para todos tus desplazamientos, sean cortos o largos, profesionales o personales.",
     "section-welcome-service-title" => "Un servicio a medida, adaptado a tus necesidades.",
     "section-welcome-service-description" => "Nos comprometemos a ofrecerte un servicio de transporte personalizado, donde la puntualidad, el confort y la discreción están en el centro de cada viaje. ¿Necesitas un traslado a una estación de tren o aeropuerto? ¿Un chófer privado para una noche, un evento o un viaje de negocios? Nos adaptamos a tu horario para que viajes con total tranquilidad.",

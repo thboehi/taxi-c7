@@ -1,13 +1,13 @@
 <?php
 return [
-    "title" => "Taxi C7 - Châtel-St-Denis, Romont et les alentours.",
+    "title" => "Taxi C7 - Suisse - Romont, Châtel-St-Denis et les alentours.",
     "name" => "Taxi C7",
-    "description" => "Taxi indépendant à Châtel-Saint-Denis, Romont et environs. Service de transport sur mesure, chauffeur privé, transferts vers gares et aéroports 24/7. Confort, discrétion et ponctualité.",
-    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, chauffeur privé, transport aéroport Genève, transfert gare Bulle, transfert gare Palézieux, Palezieux, taxi indépendant, service 24/7, taxi local, réservation taxi, transport longue distance, taxi Fribourg, taxi Veveyse",
+    "description" => "Taxi indépendant à Romont, Châtel-St-Denis et environs. Service de transport sur mesure, chauffeur privé, transferts vers gares et aéroports 24/7. Confort, discrétion et ponctualité. Taxi Chatel.",
+    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, chauffeur privé, transport aéroport Genève, transfert gare Bulle, transfert gare Palézieux, Palezieux, taxi indépendant, service 24/7, taxi local, réservation taxi, transport longue distance, taxi Fribourg, taxi Veveyse, taxi suisse, suisse, taxi Chatel",
     "call" => "Appeler",
     "save" => "Enregistrer le contact",
 
-    "section-welcome-title" => "Votre chauffeur privé à Châtel-Saint-Denis, Romont et environs 🚖✨",
+    "section-welcome-title" => "Votre chauffeur privé à Romont, Châtel-St-Denis et ailleurs en Suisse 🚖✨",
     "section-welcome-description" => "Vous recherchez un taxi indépendant et un service de chauffeur privé fiable et confortable dans la région de Châtel-Saint-Denis, Romont et les alentours ? Taxi C7 est là pour vous, 24h/24 et 7j/7, pour tous vos déplacements, qu’ils soient courts ou longs, professionnels ou personnels.",
 
     // Section Welcome Service

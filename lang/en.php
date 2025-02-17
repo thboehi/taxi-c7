@@ -1,13 +1,13 @@
 <?php
 return [
-    "title" => "Taxi C7 - Châtel-St-Denis, Romont and surroundings.",
+    "title" => "Taxi C7 - Switzerland - Romont, Châtel-St-Denis and surroundings.",
     "name" => "Taxi C7",
-    "description" => "Independent taxi in Châtel-Saint-Denis, Romont, and surroundings. Personalized transport service, private driver, transfers to train stations and airports 24/7. Comfort, discretion, and punctuality.",
-    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, private driver, Geneva airport transport, Bulle train station transfer, Palézieux train station transfer, Palezieux, independent taxi, 24/7 service, local taxi, taxi booking, long-distance transport, taxi Fribourg, taxi Veveyse",
+    "description" => "Independent taxi in Romont, Châtel-St-Denis, and surroundings. Personalized transport service, private driver, transfers to train stations and airports 24/7. Comfort, discretion, and punctuality.",
+    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, private driver, Geneva airport transport, Bulle train station transfer, Palézieux train station transfer, Palezieux, independent taxi, 24/7 service, local taxi, taxi booking, long-distance transport, taxi Fribourg, taxi Veveyse, swiss taxi, switzerland, swiss",
     "call" => "Call",
     "save" => "Save for later...",
 
-    "section-welcome-title" => "Your private driver in Châtel-Saint-Denis, Romont, and surroundings 🚖✨",
+    "section-welcome-title" => "Your private driver in Romont, Châtel-St-Denis and elsewhere in Switzerland 🚖✨",
     "section-welcome-description" => "Are you looking for an independent taxi and a reliable, comfortable private driver service in the Châtel-Saint-Denis, Romont, and surrounding areas? Taxi C7 is here for you 24/7 for all your trips, whether short or long, professional or personal.",
     "section-welcome-service-title" => "A tailor-made service, adapted to your needs.",
     "section-welcome-service-description" => "We are committed to providing you with a personalized transport service where punctuality, comfort, and discretion are at the heart of every journey. Need a transfer to a train station or airport? A private driver for an evening, an event, or a business trip? We adapt to your schedule so you can travel with peace of mind.",

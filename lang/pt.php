@@ -1,13 +1,13 @@
 <?php
 return [
-    "title" => "Taxi C7 - Châtel-St-Denis, Romont e arredores.",
+    "title" => "Taxi C7 - Suíça - Romont, Châtel-St-Denis e arredores.",
     "name" => "Taxi C7",
-    "description" => "Táxi independente em Châtel-Saint-Denis, Romont e arredores. Serviço de transporte personalizado, motorista particular, transferências para estações de trem e aeroportos 24/7. Conforto, discrição e pontualidade.",
-    "keywords" => "táxi Châtel-Saint-Denis, táxi Romont, motorista particular, transporte aeroporto Genebra, transferência estação Bulle, transferência estação Palézieux, Palezieux, táxi independente, serviço 24/7, táxi local, reserva de táxi, transporte de longa distância, táxi Friburgo, táxi Veveyse",
+    "description" => "Táxi independente em Romont, Châtel-St-Denis e arredores. Serviço de transporte personalizado, motorista particular, transferências para estações de trem e aeroportos 24/7. Conforto, discrição e pontualidade.",
+    "keywords" => "táxi Châtel-Saint-Denis, táxi Romont, motorista particular, transporte aeroporto Genebra, transferência estação Bulle, transferência estação Palézieux, Palezieux, táxi independente, serviço 24/7, táxi local, reserva de táxi, transporte de longa distância, táxi Friburgo, táxi Veveyse, taxi Suíça, Suíça, taxi Chatel, Chatel",
     "call" => "Ligar",
     "save" => "Salvar para mais tarde...",
     
-    "section-welcome-title" => "Seu motorista particular em Châtel-Saint-Denis, Romont e arredores 🚖✨",
+    "section-welcome-title" => "O seu motorista privado em Romont, Châtel-St-Denis e outros lugares na Suíça 🚖✨",
     "section-welcome-description" => "Você está procurando um táxi independente e um serviço confiável e confortável de motorista particular na região de Châtel-Saint-Denis, Romont e arredores? O Taxi C7 está aqui para você 24 horas por dia, 7 dias por semana, para todas as suas viagens, sejam elas curtas ou longas, profissionais ou pessoais.",
     "section-welcome-service-title" => "Um serviço sob medida, adaptado às suas necessidades.",
     "section-welcome-service-description" => "Comprometemo-nos a oferecer um serviço de transporte personalizado, onde pontualidade, conforto e discrição estão no centro de cada viagem. Precisa de um transfer para uma estação de trem ou aeroporto? De um motorista particular para uma noite, um evento ou uma viagem de negócios? Adaptamo-nos ao seu horário para que você possa viajar com tranquilidade.",

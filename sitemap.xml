@@ -5,6 +5,7 @@
     <!-- Version française -->
     <url>
         <loc>https://taxi-c7.ch/fr</loc>
+        <lastmod>2025-02-06</lastmod>
         <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
@@ -16,6 +17,7 @@
     <!-- Version anglaise -->
     <url>
         <loc>https://taxi-c7.ch/en</loc>
+        <lastmod>2025-02-06</lastmod>
         <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
@@ -27,6 +29,7 @@
     <!-- Version allemande -->
     <url>
         <loc>https://taxi-c7.ch/de</loc>
+        <lastmod>2025-02-06</lastmod>
         <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
@@ -38,6 +41,7 @@
     <!-- Version espagnole -->
     <url>
         <loc>https://taxi-c7.ch/es</loc>
+        <lastmod>2025-02-06</lastmod>
         <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
@@ -49,6 +53,7 @@
     <!-- Version italienne -->
     <url>
         <loc>https://taxi-c7.ch/it</loc>
+        <lastmod>2025-02-06</lastmod>
         <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>
@@ -60,6 +65,7 @@
     <!-- Version portugaise -->
     <url>
         <loc>https://taxi-c7.ch/pt</loc>
+        <lastmod>2025-02-06</lastmod>
         <xhtml:link rel="alternate" hreflang="fr" href="https://taxi-c7.ch/fr"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://taxi-c7.ch/en"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://taxi-c7.ch/de"/>

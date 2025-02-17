@@ -52,8 +52,6 @@ $trsl = include $lang_file;
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 
-    <!-- Umami Tracking -->
-    <script defer src="https://umami.thbo.synology.me/script.js" data-website-id="478a4a08-4afe-4ffc-b543-a5149d3e1c2f"></script>
 </head>
 
 <body>

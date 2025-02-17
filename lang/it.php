@@ -1,13 +1,13 @@
 <?php
 return [
-    "title" => "Taxi C7 - Châtel-St-Denis, Romont e dintorni.",
+    "title" => "Taxi C7 - Svizzera - Romont, Châtel-St-Denis e dintorni.",
     "name" => "Taxi C7",
-    "description" => "Taxi indipendente a Châtel-Saint-Denis, Romont e dintorni. Servizio di trasporto personalizzato, autista privato, trasferimenti verso stazioni ferroviarie e aeroporti 24/7. Comfort, discrezione e puntualità.",
-    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, autista privato, trasporto aeroporto Ginevra, trasferimento stazione Bulle, trasferimento stazione Palézieux, Palezieux, taxi indipendente, servizio 24/7, taxi locale, prenotazione taxi, trasporto a lunga distanza, taxi Friburgo, taxi Veveyse",
+    "description" => "Taxi indipendente a Romont, Châtel-St-Denis e dintorni. Servizio di trasporto personalizzato, autista privato, trasferimenti verso stazioni ferroviarie e aeroporti 24/7. Comfort, discrezione e puntualità.",
+    "keywords" => "taxi Châtel-Saint-Denis, taxi Romont, autista privato, trasporto aeroporto Ginevra, trasferimento stazione Bulle, trasferimento stazione Palézieux, Palezieux, taxi indipendente, servizio 24/7, taxi locale, prenotazione taxi, trasporto a lunga distanza, taxi Friburgo, taxi Veveyse, taxi Svizzera, Svizzera",
     "call" => "Chiamare",
     "save" => "Salva per dopo...",
 
-    "section-welcome-title" => "Il tuo autista privato a Châtel-Saint-Denis, Romont e dintorni 🚖✨",
+    "section-welcome-title" => "Il vostro autista privato a Romont, Châtel-St-Denis e altrove in Svizzera 🚖✨",
     "section-welcome-description" => "Cerchi un taxi indipendente e un servizio di autista privato affidabile e confortevole nella regione di Châtel-Saint-Denis, Romont e dintorni? Taxi C7 è qui per te 24 ore su 24, 7 giorni su 7, per tutti i tuoi spostamenti, brevi o lunghi, professionali o personali.",
     "section-welcome-service-title" => "Un servizio su misura, adattato alle tue esigenze.",
     "section-welcome-service-description" => "Ci impegniamo a offrirti un servizio di trasporto personalizzato, dove puntualità, comfort e discrezione sono al centro di ogni viaggio. Hai bisogno di un trasferimento verso una stazione ferroviaria o un aeroporto? Di un autista privato per una serata, un evento o un viaggio di lavoro? Ci adattiamo al tuo programma affinché tu possa viaggiare in tutta serenità.",
